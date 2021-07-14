@@ -12,6 +12,10 @@
 .navbar .nav-item a {
   color: #212529;
 }
+h1{
+  background-color: red;
+  font-size: 40;
+}
 
 .nav-item {
   margin: 0 10px;
